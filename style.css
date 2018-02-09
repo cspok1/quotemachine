@@ -1,0 +1,15 @@
+h1 {
+	text-align:center;
+}
+
+small { 
+	display: block;
+	color:grey;
+	text-align:center;
+}
+
+#btn {
+	margin: auto;
+	display: block;
+	text-align:center;
+}
