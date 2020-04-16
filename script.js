@@ -14,6 +14,6 @@ function loadDoc() {
 
     }
   };
-  xhttp.open("GET", "http://quotes.stormconsultancy.co.uk/random.json", true);
+  xhttp.open("GET", "https://cors-anywhere.herokuapp.com/http://quotes.stormconsultancy.co.uk/random.json", true);
   xhttp.send();
 }
